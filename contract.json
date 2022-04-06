@@ -1,0 +1,8 @@
+{
+  "name": "RainNFT-test-2",
+  "description": "Testing rain NFT's.",
+  "image": "https://lh3.googleusercontent.com/xsnxKOMK-dYAA42s-YSKoceIKam-_Zk9WvaMxUr_AQOtISKhal1So5rXtklIjIpbkdaoPk0rxqOY3FN4zoe6ndcz0WSi1hUpdYYt=s130",
+  "external_link": "https://testnets.opensea.io/collection/rainnft-test-2",
+  "seller_fee_basis_points": 100,
+  "fee_recipient": "0x70d1D589186cf42f5A2291a9601798696152d7E4"
+}
